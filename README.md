@@ -1,6 +1,7 @@
 <!-- Introduction -->
 # Hello, everyone! 👋
-My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow currently working in VK Tarantool. <br />
+My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow currently working in VK Tarantool <br />
+and studying in Bauman Moscow State University.
 My contacts
 ## 🔧 Technologies & Tools
 <!-- Technology shields -->
