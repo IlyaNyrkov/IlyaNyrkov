@@ -1,4 +1,4 @@
-# Technologies & Tools
+# 🔧 Technologies & Tools
 
 <!-- Technology shields -->
 <!-- Programming languages -->
