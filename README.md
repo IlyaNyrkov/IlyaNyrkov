@@ -3,7 +3,8 @@
 My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow currently working in VK Tarantool <br />
 and studying in Bauman Moscow State University.
 My contacts:
-<img src="https://github.com/IlyaNyrkov/IlyaNyrkov/blob/main/telegram.svg" width="30px"> @IlNyRk
+Telegram: @IlNyRk
+Email: ilya.nyrkov@gmail.com
 ## 🔧 Technologies & Tools
 <!-- Technology shields -->
 <!-- Programming languages -->
