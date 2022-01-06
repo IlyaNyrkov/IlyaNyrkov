@@ -2,7 +2,8 @@
 # Hello, everyone! 👋
 My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow currently working in VK Tarantool <br />
 and studying in Bauman Moscow State University.
-My contacts
+My contacts:
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> @IlNyRk
 ## 🔧 Technologies & Tools
 <!-- Technology shields -->
 <!-- Programming languages -->
