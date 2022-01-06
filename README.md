@@ -1,11 +1,13 @@
 <!-- Introduction -->
-# Hello, everyone! 👋
+
+# **Hello, everyone!** 👋
 My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow, currently working in VK Tarantool
 and studying in Bauman Moscow State University. <br />
+# **Projects page:** https://ilyanyrkov.github.io/
 ### My contacts: <br />
 Telegram: @IlNyRk <br />
 Email: ilya.nyrkov@gmail.com <br />
-## 🔧 Technologies & Tools
+## 🔧 **Technologies & Tools**
 <!-- Technology shields -->
 <!-- Programming languages -->
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
@@ -29,7 +31,7 @@ Email: ilya.nyrkov@gmail.com <br />
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 
-## 📈 GitHub Stats
+## 📈 **GitHub Stats**
 <!-- Language stat -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaNyrkov&layout=demo&hide=CMake,Dockerfile&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Ilya Nyrkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaNyrkov&show_icons=true&theme=dark)
