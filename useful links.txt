@@ -2,3 +2,5 @@ different widgets like most used languages: https://github.com/anuraghazra/githu
 header picture: https://github.com/kyechan99/capsule-render
 guide how to build page like that: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 emoji list: https://emojipedia.org/search/?q=wave
+icons: https://simpleicons.org/
+language differenciation in readme comments: https://github.com/github/linguist/tree/master/lib/linguist

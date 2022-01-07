@@ -3,8 +3,8 @@
 # **Hello, everyone!** 👋
 My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow, currently working in VK Tarantool
 and studying in Bauman Moscow State University. <br />
-# **Projects page:** https://ilyanyrkov.github.io/
-### My contacts: <br />
+# **💼Projects page:** https://ilyanyrkov.github.io/
+## 📞 **My contacts:** <br />
 Telegram: @IlNyRk <br />
 Email: ilya.nyrkov@gmail.com <br />
 ## 🔧 **Technologies & Tools**
@@ -14,7 +14,7 @@ Email: ilya.nyrkov@gmail.com <br />
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Erlang-informational?style=flat&logo=erlang&logoColor=white&color=2bbc8a)
 <!-- Tools -->
