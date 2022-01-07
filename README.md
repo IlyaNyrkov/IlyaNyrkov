@@ -4,7 +4,7 @@
 My name is Ilya Nyrkov and I'm a software developer. I'm from Russia, living in Moscow, currently working in VK Tarantool
 and studying in Bauman Moscow State University. <br />
 # **💼Projects page:** https://ilyanyrkov.github.io/
-## 📞 **My contacts:** <br />
+## 📞 **My contacts** <br />
 Telegram: @IlNyRk <br />
 Email: ilya.nyrkov@gmail.com <br />
 ## 🔧 **Technologies & Tools**
@@ -33,5 +33,5 @@ Email: ilya.nyrkov@gmail.com <br />
 
 ## 📈 **GitHub Stats**
 <!-- Language stat -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaNyrkov&layout=demo&hide=CMake,Dockerfile&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaNyrkov&layout=demo&hide=CMake,Dockerfile&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Ilya Nyrkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaNyrkov&show_icons=true&theme=dark)
