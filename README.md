@@ -1,7 +1,7 @@
 <!-- Introduction -->
 
 # **Hello, everyone!** 👋
-My name is Ilya Nyrkov and I'm a software developer, currently working in VK Tarantool
+My name is Ilya Nyrkov and I'm a presale Architect / software developer, currently working in VK Cloud
 and studying in Bauman Moscow State University. <br />
 # **💼Projects page:** https://ilyanyrkov.github.io/
 ## 📞 **My contacts** <br />
