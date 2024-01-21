@@ -25,9 +25,3 @@ Email: ilya.nyrkov@gmail.com <br />
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-
-
-## 📈 **GitHub Stats**
-<!-- Language stat -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaNyrkov&layout=demo&hide=CMake,Dockerfile,Makefile&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Ilya Nyrkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaNyrkov&show_icons=true&theme=dark)
