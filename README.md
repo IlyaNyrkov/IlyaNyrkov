@@ -1,7 +1,7 @@
 <!-- Introduction -->
 
 # **Hello, everyone!** 👋
-My name is Ilya Nyrkov and I'm a presale Architect / software developer, currently working in VK Cloud <br />
+My name is Ilya Nyrkov and I'm a Solutions Architect based in Germany <br />
 # **💼Projects page:** https://ilyanyrkov.github.io/
 # **🦊Gitlab:** https://gitlab.com/IlyaNyrkov
 ## 📞 **My contacts** <br />
@@ -14,7 +14,6 @@ Email: ilya.nyrkov@gmail.com <br />
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 <!-- Cloud -->
 ![](https://img.shields.io/badge/Cloud-Openstack-informational?style=flat&logo=openstack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
